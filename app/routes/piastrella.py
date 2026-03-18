@@ -28,5 +28,5 @@ messages = [
 
 
 @router.get("/")
-def get_piastrella():
+async def get_piastrella():
     return {"message": choice(messages)}
