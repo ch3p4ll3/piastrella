@@ -29,6 +29,8 @@ This is not a subscription based service, it is a free program that we are givin
 
 "Well, gosh darn! I had no place in the room for me to sit, but Piastrella adviced me the right way to deal with this, thank you Piastrella! I will report you as the best advicer I have ever known!" - T. C.
 
+"Piastrella is the only thing that is not SHIT, I like a lot" - D. D.
+
 ## How to with UV
 - clone the repo
 - install [uv](https://docs.astral.sh/uv/getting-started/installation/)
