@@ -33,6 +33,10 @@ This is not a subscription based service, it is a free program that we are givin
 
 "A Piastrella has been promised to us 3000 years ago" B.N.
 
+## Automatically updated at every push
+- **Piastrella**: https://piastrella.onrender.com/piastrella/
+- **Docs**: https://piastrella.onrender.com/docs
+
 ## How to with UV
 - clone the repo
 - install [uv](https://docs.astral.sh/uv/getting-started/installation/)
