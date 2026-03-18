@@ -17,7 +17,13 @@ messages = [
     "This would compromise the foundation. No.",
     "Piastrella isn't feeling it today.",
     "Maybe in another mosaic.",
-    "The tiles are currently resting."
+    "The tiles are currently resting.",
+    "Buy a new house, I will give you advice!",
+    "You should update to dotnet 9, I'll help you, I am a Piastrella!",
+    "Piastrella reminds you to smile and eat Tangerines",
+    "Piastrella knows where you are and is coming to get you. To give you a smile!",
+    "Are you operative? Piastrella is waiting!",
+    "No space in the office for you? Just go back home and look at me, your Piastrella!"
 ]
 
 
