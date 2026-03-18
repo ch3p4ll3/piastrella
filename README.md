@@ -17,5 +17,12 @@
 - run with: `fastapi dev`
 - enjoy `http://localhost:8000/piastrella`
 
+## How to Docker edition
+- Jonatan loves this edition
+- clone the repo
+- run `docker compose up --build -d`
+- enjoy `http://localhost:8000/piastrella`
+- also checkout `http://localhost:8000/docs`
+
 
 Inspired by [No-as-a-Service](https://github.com/hotheadhacker/no-as-a-service)
